@@ -93,3 +93,18 @@ ul{
 footer{
     background-color: #f1f3f5;
 }
+.backfoot{
+    background-color: #19212b;
+    height: 150px;
+}
+.fs-7{
+    font-size: 13px;
+}
+.footmargin{
+    margin-top: 15px;
+}
+.footmargin2{
+    margin-top: -30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
