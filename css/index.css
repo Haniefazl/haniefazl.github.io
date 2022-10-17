@@ -1,0 +1,95 @@
+@media all and (min-width:1px) and (max-width:1199px) {
+    .diss{
+        display: none;
+    }
+}
+@media all and (min-width:1024px) {
+    .position{
+        position: sticky;
+        margin-left: 850px;
+        margin-top: -400px;
+    }
+}
+.top-header1{
+    background-color: #F2F6F6;
+    height: 38px;
+}
+.epsonus{
+    font-size: 11px;
+    color: #003399;
+    line-height: 35px;
+}
+.hlinks{
+width: 145px;
+}
+.lhover:hover{
+    text-decoration: underline;
+}
+.navcolor{
+background-color:#19212b;
+height: 110px;
+}
+.marginleft{
+    margin-left: 200px;
+    font-size: 12PX;
+}
+.removepad{
+    padding: 0;
+}
+.bu{
+    background-color: #003399;
+}
+.bu:hover{
+    background-color: #9ddfff;
+    color: #003399;
+}
+.position2{
+    position: sticky;
+    margin-left: 85px;
+    margin-top: -490px;
+}
+.position3{
+    position: sticky;
+    margin-left: 790px;
+    margin-top: -420px;
+}
+.marginauto{
+margin-left: 5%;
+}
+.weight{
+    height: 80px;
+}
+.icon1{
+    background-image: url(../images/21.png);
+}
+.icon2{
+    background-image: url(../images/22.png);
+}
+.icon3{
+    background-image: url(../images/23.png);
+}
+.icon4{
+    background-image: url(../images/24.png);
+}
+.icon5{
+    background-image: url(../images/26.png);
+}
+.icons{
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.font12{
+    font-size: 13px;
+    color: #003399;
+}
+li:hover{
+    text-decoration: underline;
+}
+ul{
+    list-style: none;
+    color: #014277;
+}
+footer{
+    background-color: #f1f3f5;
+}
