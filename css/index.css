@@ -109,7 +109,6 @@ ul{
     list-style: none;
     color: #014277;
 }
-
 .footer1{
     background-color: #f1f3f5;
 }
@@ -129,3 +128,7 @@ ul{
 .topmargin{
     margin-top: 8%;
 }
+.logo{
+    width: 30%;
+}
+
