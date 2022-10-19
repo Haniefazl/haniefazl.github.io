@@ -2,12 +2,31 @@
     .diss{
         display: none;
     }
+    .diss4{
+        display: none;
+    }
+
+}
+@media screen and (min-width:1px) and (max-width:1199px) {
+    .backg{
+    background-color: black;
+    height: 50%;
+    }
 
 }
 @media screen and (min-width:1200px) {
     .position{
         margin-left: 850px;
         margin-top: -400px;
+    }
+    .position2{
+        margin-left: 85px;
+        margin-top: -490px;
+    }
+    .position3{
+        position: sticky;
+        margin-left: 50%;
+        margin-top: -420px;
     }
 }
 @media screen and (min-width:501px) and (max-width:767px) {
@@ -41,9 +60,6 @@
 .hlinks{
 width:15% ;
 }
-.lhover:hover{
-    text-decoration: underline;
-}
 .navcolor{
 background-color:#19212b;
 height: 110px;
@@ -52,7 +68,7 @@ height: 110px;
     margin-left: 200px;
     font-size: 12PX;
 }
-.removepad{
+.remove-pad{
     padding: 0;
 }
 .bu{
@@ -61,22 +77,6 @@ height: 110px;
 .bu:hover{
     background-color: #9ddfff;
     color: #003399;
-}
-.position2{
-    position: sticky;
-    margin-left: 85px;
-    margin-top: -490px;
-}
-.position3{
-    position: sticky;
-    margin-left: 790px;
-    margin-top: -420px;
-}
-.marginauto{
-margin-left: 5%;
-}
-.weight{
-    height: 80px;
 }
 .icon1{
     background-image: url(../images/21.png);
@@ -109,26 +109,23 @@ ul{
     list-style: none;
     color: #014277;
 }
-footer{
+
+.footer1{
     background-color: #f1f3f5;
 }
 .backfoot{
     background-color: #19212b;
-    height: 150px;
+    height: 120px;
 }
 .fs-7{
     font-size: 13px;
 }
-.footmargin{
-    margin-top: 15px;
-}
-.footmargin2{
-    margin-top: -30px;
-    margin-right: 20px;
-    margin-left: 20px;
-}
 .imagesize{
     width: 90%;
-
-
+}
+.margintop{
+    margin-top: 18%;
+}
+.topmargin{
+    margin-top: 8%;
 }
